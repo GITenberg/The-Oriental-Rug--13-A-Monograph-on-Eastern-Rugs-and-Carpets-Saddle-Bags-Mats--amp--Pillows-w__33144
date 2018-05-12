@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36232'
     url: http://www.gutenberg.org/2009/agents/36232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33144#The-Oriental-Rug--13-A-Monograph-on-Eastern-Rugs-and-Carpets-Saddle-Bags-Mats--amp--Pillows-w_
 gutenberg_issued: '2010-07-13'
 gutenberg_type: Text
 identifiers:
